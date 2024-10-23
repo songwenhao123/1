@@ -16,3 +16,6 @@ Run "**CUDA_VISIBLE_DEVICES=0 python test2.py**" to test the model.
  - [ ] numpy 1.19.2
  - [ ] pillow  8.0.1
 
+## Acknowledgements
+
+This code is built on [CLIP-Count](https://github.com/Linfeng-Tang/SeAFusion). We thank the authors for sharing their codes.
