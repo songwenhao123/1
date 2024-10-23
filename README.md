@@ -18,4 +18,4 @@ Run "**CUDA_VISIBLE_DEVICES=0 python test2.py**" to test the model.
 
 ## Acknowledgements
 
-This code is built on [CLIP-Count](https://github.com/Linfeng-Tang/SeAFusion). We thank the authors for sharing their codes.
+This code is built on [SeAFusion](https://github.com/Linfeng-Tang/SeAFusion). We thank the authors for sharing their codes.
